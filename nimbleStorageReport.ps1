@@ -23,7 +23,6 @@ Param (
 
 #Email Variables
 $date = Get-Date
-$sgToken        = "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"
 $sgToken        = "SendGridToken"
 $fromAddress    = "myvac@mydomain.com"
 $fromName       = "US VAC"
